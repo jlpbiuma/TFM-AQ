@@ -1,0 +1,6 @@
+[submodule "Raspberry"]
+	path = Raspberry
+	url = https://github.com/jlpbiuma/TFM-AQ-RASPBERRY
+[submodule "ESP32"]
+	path = ESP32
+	url = https://github.com/jlpbiuma/TFM-AQ-ESP32
