@@ -4,3 +4,9 @@
 [submodule "ESP32"]
 	path = ESP32
 	url = https://github.com/jlpbiuma/TFM-AQ-ESP32
+[submodule "Frontend"]
+	path = Frontend
+	url = https://github.com/jlpbiuma/TFM-AQ-Frontend
+[submodule "Backend"]
+	path = Backend
+	url = https://github.com/jlpbiuma/TFM-AQ-Backend
