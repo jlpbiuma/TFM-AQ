@@ -10,3 +10,6 @@
 [submodule "Backend"]
 	path = Backend
 	url = https://github.com/jlpbiuma/TFM-AQ-Backend
+[submodule "FirmwareUploader"]
+	path = FirmwareUploader
+	url = https://github.com/jlpbiuma/TFM-AQ-FirmwareLoader.git
